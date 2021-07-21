@@ -1,0 +1,9 @@
+{
+	"name": "adf-aruna",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1793aca5-f615-418d-a679-ce9cf128718d",
+		"tenantId": "d693e859-2df6-4cc4-94b8-1107a791196a"
+	}
+}
