@@ -27,6 +27,11 @@
 				}
 			}
 		],
+		"parameters": {
+			"dataflow1": {
+				"type": "string"
+			}
+		},
 		"annotations": []
 	}
 }
